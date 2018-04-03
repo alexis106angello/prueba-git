@@ -15,7 +15,7 @@
 		<div class="row">
 			<div class="col-md-12">
 
-				<center><h1 class="page-header">HISTORIAS <small>Clinica luren</small> </h1> </center>
+				<center><h1 class="page-header">HISTORIAS <small>Clinica señor de luren</small> </h1> </center>
 
 				<div class="removeMessages"></div>
 
@@ -50,7 +50,7 @@
 	    <div class="modal-content">
 	      <div class="modal-header">
 	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-	        <h4 class="modal-title"><span class="glyphicon glyphicon-plus-sign"></span>	REGISTRAR personal</h4>
+	        <h4 class="modal-title"><span class="glyphicon glyphicon-plus-sign"></span>	REGISTRAR pacientes de emergencia</h4>
 	      </div>
 	      
 	      <form class="form-horizontal" action="php_action/create.php" method="POST" id="createMemberForm">
