@@ -15,7 +15,7 @@
 		<div class="row">
 			<div class="col-md-12">
 
-				<center><h1 class="page-header">HISTORIAS <small>Clinicas</small> </h1> </center>
+				<center><h1 class="page-header">HISTORIAS <small>Clinica luren</small> </h1> </center>
 
 				<div class="removeMessages"></div>
 
